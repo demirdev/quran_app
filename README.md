@@ -3,7 +3,7 @@
 A new Flutter application for Qur'an.
 
 ## Video
-![Watch the video](https://youtu.be/3fTBCetiaNo)
+[![Watch the video](https://img.youtube.com/vi/3fTBCetiaNo/default.jpg)](https://youtu.be/3fTBCetiaNo)
 
 ## Screenshoots
 
