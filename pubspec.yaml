@@ -29,7 +29,8 @@ dependencies:
   flutter_screenutil: ^5.0.0+2
 #  quran: ^1.0.4
   quran:
-    path: ./../quran
+#    path: ./../quran
+    git: https://github.com/demirdev/quran.git
 
 
 

@@ -140,9 +140,11 @@ packages:
   quran:
     dependency: "direct main"
     description:
-      path: "../quran"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: fa1aaed7ac9b7b4589fb36f5bdc10641c1b1d61c
+      url: "https://github.com/demirdev/quran.git"
+    source: git
     version: "1.0.3"
   sky_engine:
     dependency: transitive
