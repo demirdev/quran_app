@@ -2,7 +2,7 @@
 
 A new Flutter application for Qur'an.
 
-## Desing
+## Design
 Quran App Concept designed by [
 Tanvir Ahassan Anik](https://dribbble.com/shots/12671843-Quran-App-Concept-with-Surah-view) 
 
