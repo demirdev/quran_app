@@ -1,6 +1,16 @@
 # quran_app
 
-A new Flutter application.
+A new Flutter application for Qur'an.
+
+## Video
+![Watch the video](https://youtu.be/3fTBCetiaNo)
+
+## Screenshoots
+
+![Alt text](/screenshoots/1.png?raw=true )
+![Alt text](/screenshoots/2.png?raw=true )
+![Alt text](/screenshoots/3.png?raw=true )
+
 
 ## Getting Started
 
