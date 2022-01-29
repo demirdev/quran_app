@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
+import 'package:quran_app/bloc/surah/surah_bloc.dart';
+import 'package:quran_app/bloc/surah/surah_event.dart';
 import 'package:quran_app/common/app_title.dart';
 import 'package:quran_app/common/search.dart';
 import 'package:quran_app/extensions/extensions_spacing.dart';
@@ -29,6 +31,7 @@ class _HomeScreenState extends State<HomeScreen>
 
   @override
   void initState() {
+    Get.find<SurahBloc>().add(SurahGetList());
     _categoryTabController = TabController(length: 4, vsync: this);
     super.initState();
   }
