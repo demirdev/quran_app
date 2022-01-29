@@ -27,6 +27,8 @@ dependencies:
   get:
   pixel_perfect: any
   flutter_screenutil: ^5.0.0+2
+  flutter_bloc:
+  equatable:
 #  quran: ^1.0.4
   quran:
 #    path: ./../quran
